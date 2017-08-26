@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'photoPicker'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of photoPicker.'
+  s.version          = '0.0.0.1'
+  s.summary          = '相册选取器-gh'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,23 +18,23 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+相册选取器-g
                        DESC
 
-  s.homepage         = 'https://github.com/xiaocaobobo/photoPicker'
+  s.homepage         = 'https://github.com/quntion/gPhotoPicker'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'xiaocaobobo' => '3300493383@qq.com' }
-  s.source           = { :git => 'https://github.com/xiaocaobobo/photoPicker.git', :tag => s.version.to_s }
+  s.author           = { 'quntion' => 'shaoyize@foxmail.com' }
+  s.source           = { :git => 'https://github.com/quntion/gPhotoPicker.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'photoPicker/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'photoPicker' => ['photoPicker/Assets/*.png']
-  # }
+  s.resource_bundles = {
+    'photoPicker' => ['photoPicker/Assets/*']
+  }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
