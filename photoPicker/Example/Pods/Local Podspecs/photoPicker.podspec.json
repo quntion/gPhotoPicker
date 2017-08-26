@@ -1,0 +1,22 @@
+{
+  "name": "photoPicker",
+  "version": "0.1.0",
+  "summary": "A short description of photoPicker.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xiaocaobobo/photoPicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiaocaobobo": "3300493383@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/xiaocaobobo/photoPicker.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "photoPicker/Classes/**/*"
+}
