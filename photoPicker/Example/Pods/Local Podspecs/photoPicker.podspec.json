@@ -1,19 +1,19 @@
 {
   "name": "photoPicker",
-  "version": "0.1.0",
-  "summary": "A short description of photoPicker.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/xiaocaobobo/photoPicker",
+  "version": "0.0.0.1",
+  "summary": "相册选取器-gh",
+  "description": "相册选取器-g",
+  "homepage": "https://github.com/quntion/gPhotoPicker",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "xiaocaobobo": "3300493383@qq.com"
+    "quntion": "shaoyize@foxmail.com"
   },
   "source": {
-    "git": "https://github.com/xiaocaobobo/photoPicker.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/quntion/gPhotoPicker.git",
+    "tag": "0.0.0.1"
   },
   "platforms": {
     "ios": "8.0"

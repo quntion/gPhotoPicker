@@ -4,7 +4,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - photoPicker (0.1.0)
+  - photoPicker (0.0.0.1)
 
 DEPENDENCIES:
   - FBSnapshotTestCase
@@ -16,7 +16,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  photoPicker: dd5f2fdc5dfc781a0e98fc96a8e3f253147cc128
+  photoPicker: 7107be3395871669f1696cee66b94b0d5c8caf75
 
 PODFILE CHECKSUM: 833c5ccb85fd654f961c22024f5da1f9a4f862dd
 

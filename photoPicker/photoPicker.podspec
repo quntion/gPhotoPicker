@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'photoPicker'
-  s.version          = '0.0.0.1'
+  s.version          = '0.0.0.3'
   s.summary          = '相册选取器-gh'
 
 # This description is used to generate tags and improve search results.
@@ -31,10 +31,10 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'photoPicker/Classes/**/*'
-  
-  s.resource_bundles = {
-    'photoPicker' => ['photoPicker/Assets/*']
-  }
+
+  #s.resource_bundles = {
+  #  'photoPicker' => ['photoPicker/Assets/*']
+  #}
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'

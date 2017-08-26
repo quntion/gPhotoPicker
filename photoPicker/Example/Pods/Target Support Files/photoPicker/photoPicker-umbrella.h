@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "XCTest.h"
 
 FOUNDATION_EXPORT double photoPickerVersionNumber;
 FOUNDATION_EXPORT const unsigned char photoPickerVersionString[];
